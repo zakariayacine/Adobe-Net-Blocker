@@ -1,0 +1,15 @@
+# One domain per line; this file overrides the defaults when present.
+# Add or remove domains as you wish.
+adobe.com
+adobelogin.com
+adobe.io
+adobecc.com
+behance.net
+adobesc.com
+cc-api-data.adobe.io
+cc-assets.adobe.com
+ccmdls.adobe.com
+lcs-cops.adobe.io
+ims-na1.adobelogin.com
+na1r.services.adobe.com
+prod-rel-ffc-ccm.oobesaas.adobe.com
