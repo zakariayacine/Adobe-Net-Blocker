@@ -45,7 +45,7 @@ Ce projet est **open source** : vous pouvez **vérifier le code**, puis **compil
 ### 2. Lancer depuis le code source
 1. Téléchargez/cloner le repo :
    ```powershell
-   git clone https://github.com/<votre-repo>/adobe-net-blocker.git
+   git clone https://github.com/zakariayacine/Adobe-Net-Blocker.git
    cd adobe-net-blocker
    ```
 2. Installez les dépendances (optionnel, script utilise seulement la lib standard Python).
